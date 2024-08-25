@@ -1,0 +1,8 @@
+Go to Hackaton1 folder
+Right click blank - open Git Bash here
+type into terminal git pull 
+git add .
+git commit -m "message"
+git push
+Tell manuel that I made a change, so he will need to start the same from #3 (pull)
+4-6 can be done from VS code
